@@ -1,0 +1,26 @@
+{
+    "uuid": "tailscale-monitor@xas",
+    "name": "Tailscale Monitor",
+    "description": "Control de red Tailscale: monitoriza dispositivos, conecta/desconecta y copia IPs rápidamente.",
+    "icon": "network-vpn-symbolic",
+    "version": "1.0.0",
+    "author": "xascorro",
+    "url": "https://github.com/xascorro",
+    "website": "https://pedrodiaz.eu",
+    "repository": "https://github.com/xascorro/tailscale-monitor-cinnamon",
+    "issue-tracker": "https://github.com/xascorro/tailscale-monitor-cinnamon/issues",
+    "role": "notifications",
+    "cinnamon-version": [
+        "5.0",
+        "5.2",
+        "5.4",
+        "5.6",
+        "5.8",
+        "6.0"
+    ],
+    "external-commands": [
+        "tailscale",
+        "pkexec",
+        "xclip"
+    ]
+}
