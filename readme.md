@@ -3,6 +3,7 @@
 Un Applet nativo y minimalista para el escritorio **Cinnamon** (Linux Mint) que permite gestionar tu red **Tailscale** directamente desde el panel del sistema. Diseñado originalmente para ser ligero y eficiente en hardware clásico (MacBook Pro 2009 "Marvin").
 
 ---
+![Preview](screenshots/applet_view.png)
 
 ## ✨ Características
 
